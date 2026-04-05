@@ -4,18 +4,18 @@ Examples for using Eventra in different JavaScript environments.
 
 ## Available Examples
 
-- Browser
-- Node.js
-- React
-- Next.js
-- Next.js App Router
-- Vue
-- Angular
-- Svelte
-- NestJS
-- Express
-- Serverless
-- TypeScript
+- [Browser](./browser.md)
+- [Node.js](./node.md)
+- [React](./react.md)
+- [Next.js](./nextjs.md)
+- [Next.js App Router](./nextjs-app-router.md)
+- [Vue](./vue.md)
+- [Angular](./angular.md)
+- [Svelte](./svelte.md)
+- [NestJS](./nestjs.md)
+- [Express](./express.md)
+- [Serverless](./serverless.md)
+- [TypeScript](./typescript.md)
 
 ## Install
 
