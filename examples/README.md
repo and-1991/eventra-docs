@@ -17,8 +17,12 @@ Examples for using Eventra in different JavaScript environments.
 - Serverless
 - TypeScript
 
-Install SDK:
+## Install
 
 ```bash
 npm install @eventra_dev/eventra-sdk
+# or
+pnpm add @eventra_dev/eventra-sdk
+# or
+yarn add @eventra_dev/eventra-sdk
 ```
