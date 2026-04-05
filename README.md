@@ -82,7 +82,47 @@ Use this when:
 
 # Quick Example
 
-Install SDK:
+## Install
 
 ```bash
 npm install @eventra_dev/eventra-sdk
+```
+
+## Initialize
+
+```javascript
+import { Eventra } from "@eventra_dev/eventra-sdk";
+
+const eventra = new Eventra({
+  apiKey: "YOUR_API_KEY"
+});
+```
+
+## Track Event
+
+```javascript
+eventra.track("feature_used", {
+  userId: "user_123",
+  properties: {
+    feature: "dashboard"
+  }
+});
+```
+
+---
+
+# Documentation Structure
+
+- Getting Started
+- Installation
+- Quick Start
+- JavaScript SDK
+- Concepts
+- API Reference
+
+---
+
+# Links
+
+Website: https://eventra.dev  
+SDK: https://github.com/and-1991/eventra-sdk
