@@ -88,6 +88,15 @@ Use this when:
 npm install @eventra_dev/eventra-sdk
 ```
 
+```
+pnpm add @eventra_dev/eventra-sdk
+```
+
+```
+yarn add @eventra_dev/eventra-sdk
+```
+
+
 ## Initialize
 
 ```javascript
