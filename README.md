@@ -3,7 +3,8 @@
 Feature tracking for SaaS products.
 
 - 📦 npm: https://www.npmjs.com/package/@eventra_dev/eventra-sdk  
-- 🌐 Website: https://eventra.dev
+- 🌐 Website: https://eventra.dev  
+- 📚 Examples: https://github.com/and-1991/eventra-docs/tree/main/examples
 
 ---
 
