@@ -81,15 +81,21 @@ Use this when:
 
 ## Quick Example
 
-### Install
+## Install
+
+### npm
 
 ```bash
 npm install @eventra_dev/eventra-sdk
 ```
 
+### pnpm
+
 ```bash
 pnpm add @eventra_dev/eventra-sdk
 ```
+
+### yarn
 
 ```bash
 yarn add @eventra_dev/eventra-sdk
