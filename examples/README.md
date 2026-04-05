@@ -19,10 +19,20 @@ Examples for using Eventra in different JavaScript environments.
 
 ## Install
 
+### npm
+
 ```bash
 npm install @eventra_dev/eventra-sdk
-# or
+```
+
+### pnpm
+
+```bash
 pnpm add @eventra_dev/eventra-sdk
-# or
+```
+
+### yarn
+
+```bash
 yarn add @eventra_dev/eventra-sdk
 ```
