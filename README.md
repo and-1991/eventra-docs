@@ -1,8 +1,9 @@
 # Eventra Documentation
 
-JavaScript Feature Tracking for SaaS
+Feature tracking for SaaS products.
 
-npm: https://www.npmjs.com/package/@eventra_dev/eventra-sdk
+- 📦 npm: https://www.npmjs.com/package/@eventra_dev/eventra-sdk  
+- 🌐 Website: https://eventra.dev
 
 ---
 
