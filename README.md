@@ -143,3 +143,4 @@ eventra.track("feature_used", {
 
 Website: https://eventra.dev  
 SDK: https://github.com/and-1991/eventra-sdk
+Examples: https://github.com/and-1991/eventra-docs/tree/main/examples
