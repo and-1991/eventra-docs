@@ -2,13 +2,12 @@
 
 Eventra is a feature tracking platform for SaaS products.
 
-Track feature usage, understand adoption, and identify underused functionality.
-
+Track feature usage, understand adoption, and identify underused functionality.  
 Eventra helps you understand how users interact with your product and make better product decisions based on real usage data.
 
 ---
 
-# Getting Started
+## Getting Started
 
 - Getting Started
 - Installation
@@ -16,7 +15,7 @@ Eventra helps you understand how users interact with your product and make bette
 
 ---
 
-# JavaScript SDK
+## JavaScript SDK
 
 Eventra provides a lightweight JavaScript SDK that works in:
 
@@ -41,9 +40,9 @@ Supported environments include:
 
 ---
 
-# Concepts
+## Concepts
 
-## Events
+### Events
 
 Events represent user interactions with your product.
 
@@ -54,21 +53,21 @@ Examples:
 - project_created
 - dashboard_opened
 
-## Users
+### Users
 
 Each event can be associated with a unique user.
 
 This helps you understand feature adoption and user behavior.
 
-## Projects
+### Projects
 
 Projects allow you to organize events across different applications or environments.
 
 ---
 
-# API
+## API
 
-## Ingest API
+### Ingest API
 
 Eventra provides an ingestion API for sending events directly.
 
@@ -80,24 +79,25 @@ Use this when:
 
 ---
 
-# Quick Example
+## Quick Example
 
-## Install
+### Install
 
 ```bash
 npm install @eventra_dev/eventra-sdk
 ```
 
-```
+```bash
 pnpm add @eventra_dev/eventra-sdk
 ```
 
-```
+```bash
 yarn add @eventra_dev/eventra-sdk
 ```
 
+---
 
-## Initialize
+### Initialize
 
 ```javascript
 import { Eventra } from "@eventra_dev/eventra-sdk";
@@ -107,7 +107,9 @@ const eventra = new Eventra({
 });
 ```
 
-## Track Event
+---
+
+### Track Event
 
 ```javascript
 eventra.track("feature_used", {
@@ -120,7 +122,7 @@ eventra.track("feature_used", {
 
 ---
 
-# Documentation Structure
+## Documentation Structure
 
 - Getting Started
 - Installation
@@ -131,7 +133,7 @@ eventra.track("feature_used", {
 
 ---
 
-# Links
+## Links
 
 Website: https://eventra.dev  
 SDK: https://github.com/and-1991/eventra-sdk
