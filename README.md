@@ -1,5 +1,11 @@
 # Eventra Documentation
 
+JavaScript Feature Tracking for SaaS
+
+npm: https://www.npmjs.com/package/@eventra_dev/eventra-sdk
+
+---
+
 Eventra is a feature tracking platform for SaaS products.
 
 Track feature usage, understand adoption, and identify underused functionality.  
